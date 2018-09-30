@@ -6,5 +6,5 @@ Every function must have a comment describing what it does, if it meets any of t
   - in global scope
 
 ## Style
-Follow the [StandardJS](https://standardjs.com/) style.
-Use ES6 features when possible (e.g. `x => x * x` instead of `function (x) { return x * x }`)
+  - Follow the [StandardJS](https://standardjs.com/) style.
+  - Use ES6 features when possible (e.g. `x => x * x` instead of `function (x) { return x * x }`)
