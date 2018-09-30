@@ -1,5 +1,7 @@
 # Contributions
 
+Content is still being transferred from https://docs.google.com/document/d/13qII8Hc2ok9cRfAs2Fe1PoOCik7vNv5uqWdU0-Skgjs
+
 ## How to Contribute
   - Clone the git repo
   - Edit the code (in accordance with standards for code and documentation)
